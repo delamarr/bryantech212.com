@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    padding: 25px; 
+    background: rgba(0,0,40,0.95);
+}
+
+.headerbg{
+    background: url(images/glowing-light-blue-abstract-programming-code-background-on-dark-software-or-script-development-concept_rgg0rnttyl_thumbnail-1080_01.png);
+}
+.header h1{
+    margin-left: 100px;
+    font-family: sans-serif;
+    color:white;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+}
+
+.sub{
+    position: absolute;
+    left: 13rem;
+    top: 50px;
+    float: left; 
+    font-size: 14px;
+    color: white;
+} 
+
+.sub img{
+    width: 37%;
+    margin-left: -170px;
+    margin-top: -50px;
+}
+
+.header ul{
+    position: absolute;
+    right: 200px;
+    top: 0px;
+}
+
+.header li{
+    display: block;
+    float: left; 
+    padding: 40px;
+    font-size: 21px;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+
+/*ABOUT US PAGE*/
+
+.container5 {
+    background: rgba(0,0,40,0.95);
+    color: white;
+}
+.container5bg{
+    background: url(images/white-lines-code-over-light-blue-background-glowing-concept-hi-tech-programming-technology-business-toned-127464074.jpg);
+}
+.container5 h1{
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    font-family: cursive;
+    color: #dff6ff; 
+    
+}
+
+.container5 h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;   
+}
+
+.container5 h2{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: -15px;
+}
+
+.container5 p{
+    text-align: center;
+    padding: 22px;
+    font-size: 20px;
+}
+
+.container img{
+    width: 100%;
+    padding: 30px;
+}
+
+#mission{
+    font-family: impact;
+}
+
+.container5 button{
+    margin-left: 600px;
+    width: 11%;
+    font-size: 18px;
+    height: 37px;
+    border: none;
+    color: white;
+    background:#2d31fa;
+    border-radius: 3px;
+}
+
+.container5 button:hover{
+    cursor: pointer;
+    background: blue;
+    transition: 0.3s;
+}
+
+.container5 a{
+    text-decoration: none;
+    color: white;
+}
+
+.container5 h4{
+    text-align: center;
+    padding: 20px;
+}
+
+.test{
+    text-align: center;
+    font-family: sans-serif;
+    background: darkblue;
+    color: white;
+    height: 80px;
+    padding: 15px;
+    margin-top: -20px;
+    margin-bottom: -10px;
+}
+
+
+#testimonials{
+    background: rgba(0,0,40,0.95);
+    padding: 7% 15%;
+    text-align: center;
+    color: #fff;
+}
+
+.testimonialsbg{
+    background: url(images/glowing-light-blue-abstract-programming-code-background-on-dark-software-or-script-development-concept_rgg0rnttyl_thumbnail-1080_01.png);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+#extra {
+    margin-top: 270px;
+    background: rgba(0,0,40,0.95);
+    color: white;
+    height: 420px;
+    margin-bottom: -200px;
+}
+
+#extrabg{
+    background: url(images/white-lines-code-over-light-blue-background-glowing-concept-hi-tech-programming-technology-business-toned-127464074.jpg);
+}
+
+#extra h3{
+   padding-top: 70px;
+    font-size:21px;
+}
+
+.container-fluid h1 {
+    padding:20px;
+    margin-bottom: -50px;
+    
+}
+#extra button{
+    margin-top: 20px;
+    width: 17%;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background: blue;
+    color: white;
+    user-select: none;
+}
+
+
+#contact{
+    margin-top: 140px;
+}
+
+#contact img{
+    margin-top: 50px;
+}
+
+.contact{
+/*    position: absolute;*/
+    width: 100%;
+    margin-top: 107px;
+    background: rgba(0,0,40,0.99);
+}
+
+
+.contactbg{
+    background: url(images/glowing-light-blue-abstract-programming-code-background-on-dark-software-or-script-development-concept_rgg0rnttyl_thumbnail-1080_01.png);
+}
+.contact ul{
+    margin-left: 0px;
+    height: 180px;
+}
+.contact li{
+    cursor: pointer;
+    display: block;
+    float: left;
+    padding: 80px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.contact a{
+    text-decoration: none; 
+    color: white;
+}
+
+.contact a:hover{
+    color: #66bfbf;
+    transition: 0.2s;
+}
+
+.bottom {
+    margin-top: -16px;
+    height: 38px;
+    background: rgba(0,0,40,0.9);
+}
+.botttombg{
+    background: url(images/glowing-light-blue-abstract-programming-code-background-on-dark-software-or-script-development-concept_rgg0rnttyl_thumbnail-1080_01.png);
+}
+.bottom p{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
